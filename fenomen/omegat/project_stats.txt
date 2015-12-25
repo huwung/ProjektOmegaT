@@ -1,0 +1,15 @@
+12/26/15 12:16 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      55	 1532	                       7136	                         8592	     2	
+Remaining:       	      54	 1531	                       7123	                         8578	     2	
+Unique:          	      55	 1532	                       7136	                         8592	     2	
+Unique Remaining:	      54	 1531	                       7123	                         8578	     2	
+
+
+Individual File Statistics:
+
+File Name            	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+2015-12-23-scrapy.txt	             6	                 5	              6	                        5	         80	             79	          80	                    79	                              616	                                  603	                               616	                                         603	                                664	                                    650	                                 664	                                           650	
+yesterbox.intro.txt  	            49	                49	             49	                       49	       1452	           1452	        1452	                  1452	                             6520	                                 6520	                              6520	                                        6520	                               7928	                                   7928	                                7928	                                          7928	

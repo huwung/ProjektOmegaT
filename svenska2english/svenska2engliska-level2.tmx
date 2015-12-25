@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="SV"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>Sammansättningar: vätebombsexperiment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T141632Z" creationid="wanghu" creationdate="20150708T141632Z">
+        <seg>compositions: hydrogen bomb experiment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>ett längdmått</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T143808Z" creationid="wanghu" creationdate="20150708T143808Z">
+        <seg>10 kilometer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>experimentell.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T141805Z" creationid="wanghu" creationdate="20150708T141805Z">
+        <seg>experimental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>han kanske kommer, men å andra sidan kanske han inte gör det.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T143717Z" creationid="wanghu" creationdate="20150708T143717Z">
+        <seg>he might come, and then again he might not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>han är åtskilligt yngre än sin bror</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T143818Z" creationid="wanghu" creationdate="20150708T143818Z">
+        <seg>he is a good deal younger than his brother</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>i förskott</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T143801Z" creationid="wanghu" creationdate="20150708T143801Z">
+        <seg>in advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>många är emot medicinska experiment på människor.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T141711Z" creationid="wanghu" creationdate="20150708T141711Z">
+        <seg>many people are against medical experiments on humans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>smått exotisk</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T143752Z" creationid="wanghu" creationdate="20150708T143752Z">
+        <seg>quite exotic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>tankeexperiment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T141843Z" creationid="wanghu" creationdate="20150708T141843Z">
+        <seg>intellectual experiment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>verksamheten har redan startat så smått</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T143741Z" creationid="wanghu" creationdate="20150708T143741Z">
+        <seg>business has already got under way on a small scale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="SV">
+        <seg>vätebombsexperiment.</seg>
+      </tuv>
+      <tuv xml:lang="EN" changeid="wanghu" changedate="20150708T141907Z" creationid="wanghu" creationdate="20150708T141907Z">
+        <seg>hydrogen bomb experiment.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

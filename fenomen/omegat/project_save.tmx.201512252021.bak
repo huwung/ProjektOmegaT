@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r8005" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>## 7 Important Ways to Summarise Data in R</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T095901Z" creationid="bernstein" creationdate="20151225T095901Z">
+        <seg>## 基於R語言的7種重要數據概括方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Do Faster Data Manipulation using These 7 R Packages</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T111200Z" creationid="bernstein" creationdate="20151225T111200Z">
+        <seg>## 用這7個R程序包更快地操作數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>### REFERENCES</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T095544Z" creationid="bernstein" creationdate="20151225T095544Z">
+        <seg>### 參考文獻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% Additionally, the one-step test will require little technical expertise or resources, should take less than 30 minutes to carry out, and is easily transportable, making it an ideal candidate for field diagnosis in developing countries.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T021513Z" creationid="wanghu" creationdate="20150714T021513Z">
+        <seg>% 另外，這種一步检测只需要很少的专门技术知识或资源， 检测时间不超过 30 分钟， 并且其设备易于运输， 是发展中国家理想的备选方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% Although preventable, TB claims three lives every minute, making it the second leading cause of mortality from an infectious disease in the world.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T011129Z" creationid="wanghu" creationdate="20150714T011129Z">
+        <seg>% 儘管可以預防，每過1分鐘TB就會奪走3個患者的生命，這也使之成為全球死亡率第二高的傳染性疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% Currently, there is no diagnostic tool comparable to this and while others exist, they take several months to produce the same level of sensitivity—and come with a high price tag.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T020500Z" creationid="wanghu" creationdate="20150714T020500Z">
+        <seg>% 目前，没有任何诊断工具可与这种方法相媲美， 别的技术需要花费几个月的时间才能达到相同的检测灵敏度，同时价格昂贵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% Once sputum samples are combined with the reactive substance, a portable tabletop device, the TB REaD, is then used to detect any fluorescence and deliver the diagnosis in as little as 10 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T015633Z" creationid="wanghu" creationdate="20150714T015633Z">
+        <seg>% 當痰標本與反應底物結合之後，利用便攜式桌面設備(TB REaD)可以在10分鐘以內檢測螢光信號並提供診斷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% Smear microscopy, the most widely used test in the world, has a significantly lower ability to detect TB, ranging between 50 to 60 percent sensitivity.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T010913Z" creationid="wanghu" creationdate="20150714T010913Z">
+        <seg>% 涂片镜检，是世界上使用最广泛的测试，检测结核病的能力非常差，其敏感性只能達到50-60%的範圍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% Spread through the air when an individual with active TB infection coughs or sneezes, reports show that if left untreated, a person with active TB infects an average of 10 to 15 people each year, leaving a great need for faster, more reliable testing.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T011619Z" creationid="wanghu" creationdate="20150714T011619Z">
+        <seg>% 當患有活動性結核病的患者咳嗽或打噴嚏時，TB會通過空氣進行傳播，報告顯示如果不進行治療，1個患者平均每年能傳染10到15人，迫切需要更加快速和可靠的測試。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% The device significantly undercuts current diagnostic methods, which is important given the staggering statistic that if left untreated—a common scenario in many countries—a person with active TB has only a 50 percent chance of survival, Cirillo says.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T021623Z" creationid="wanghu" creationdate="20150714T021623Z">
+        <seg>% 该技术大大简化了当前的诊断方法， 具有重要的意义给出令人震惊的统计，如果不及时治疗，一个人活动性结核病患者的生存机率只有 50%。这种情况在许多国家很常见，Cirillo說。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% The target price tag on Cirillo’s test is less than $1,000 for the reader and less than $5 per test.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T020752Z" creationid="wanghu" creationdate="20150714T020752Z">
+        <seg>% Cirillo的測試，设备的价格仅为1000美元，每个测试的成本为5美元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% “Interrupting disease transmission will require early and accurate detection paired with appropriate treatment,” Cirillo says.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T021648Z" creationid="wanghu" creationdate="20150714T021648Z">
+        <seg>% "阻断疾病传播将需要及早和准确地检测搭配适当的治疗，"Cirillo 说。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% “It’s simple.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T015652Z" creationid="wanghu" creationdate="20150714T015652Z">
+        <seg>% “這很簡單。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>% “We’re looking at a low-cost, easy-to-use test that has the potential to eradicate TB.” % The test is currently in the later stages of clinical trials with plans to go to market in the next 18 months.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T022101Z" creationid="wanghu" creationdate="20150714T022101Z">
+        <seg>% “我們著眼於一個低成本、使用方便的的測試，這一測試具有根除結核病的潛力。” % 該測試目前處於臨床試驗的最後一期，計畫於18個月內上市。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>*there is no result in brew or brew cask*.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T041601Z" creationid="hugoHOOVER" creationdate="20151225T041601Z">
+        <seg>*在brew或brew cask中沒有結果*.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- [7 Important Ways to Summarise Data in R](http://www.analyticsvidhya.com/blog/2015/12/7-important-ways-summarise-data/)
+- [Do Faster Data Manipulation using These 7 R Packages](http://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T100019Z" creationid="bernstein" creationdate="20151225T095702Z">
+        <seg>- [基於R語言的7種重要數據概括方法](http://www.analyticsvidhya.com/blog/2015/12/7-important-ways-summarise-data/)
+- [用這7個R程序包更快地操作數據](http://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AIMS: To assess whether the combination of serologically determined Helicobacter pylori infection and atrophic gastritis is available as a biomarker for bone conditions.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T190135Z" creationid="hugoHOOVER" creationdate="20150717T190135Z">
+        <seg>目的：為了評估是否能將血清學幽門螺旋桿菌感染和萎縮性胃炎組合起來作為骨類疾病的生物標誌物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abstract</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194538Z" creationid="hugoHOOVER" creationdate="20150716T194538Z">
+        <seg>摘要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>According to a survey in 2010[2] among 458 professional translators, OmegaT is used 1/3 as much as Wordfast, Déjà Vu and MemoQ, and 1/8 as much as the market leader Trados.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在2010年对458名专业译员的调查[2]表明，OmegaT的用户数达到Wordfast、DejaVu和MemoQ的1/3，且达到了市场领导者塔多思的1/8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>According to studies, about a quarter of Medicare patients treated for heart failure are readmitted within 30 days, and heart-failure re-admissions alone cost Medicare about $15 billion a year.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T205147Z" creationid="wanghu" creationdate="20150713T205147Z">
+        <seg>據研究，約四分之一的醫保患者因心衰在30天內再次入院，而這樣的病例每年消耗的醫保費用為150億美金。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aim</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194548Z" creationid="hugoHOOVER" creationdate="20150716T194548Z">
+        <seg>目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, under Options&gt;Editing Behaviour, you can select what you want to see in an untranslated segment: the source text, nothing, or the best fuzzy match with a percentage that you define.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>也可以在Option&gt;Editing Behavior中选择未翻译句段的显示模式：源语、不显示或者符合所设最低比率的模糊匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although serum pepsinogen tests are useful for predicting the presence of atrophic gastritis, the optimal cut-off values have not been fully evaluated.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T195459Z" creationid="hugoHOOVER" creationdate="20150716T195459Z">
+        <seg>儘管血清胃蛋白酶檢測原對預測萎縮性胃炎很有用，但最佳臨界值(cut-off)一直沒有得到充分評估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although the first applications will be in TB, Cirillo’s detection platform—Reporter Enzyme Fluorescence—could be applied to many other respiratory diseases and infectious agents.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T022457Z" creationid="wanghu" creationdate="20150714T022457Z">
+        <seg>雖然最先應用於結核病，Cirillo的檢測平台(報告酶螢光)可以應用於其他多種呼吸系統疾病和傳染性病原體。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An additional feature that I like is OmegaT’s use of folders that it creates within your project.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT还有一个功能我比较喜欢，就是在所创建的项目文件夹内会生成多个相应的文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And, become expert at it.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103813Z" creationid="bernstein" creationdate="20151225T103813Z">
+        <seg>並且,成為這個的專家.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BACKGROUND: There are few reports about the influence of Helicobacter pylori infection and/or atrophic gastritis on bone conditions in Japan.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T185939Z" creationid="hugoHOOVER" creationdate="20150717T185621Z">
+        <seg>背景：在日本，幽門螺旋桿菌和/或萎縮性胃炎對骨類疾病的影響罕有報導。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194543Z" creationid="hugoHOOVER" creationdate="20150716T194543Z">
+        <seg>背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But, which one is the best ?</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103651Z" creationid="bernstein" creationdate="20151225T103651Z">
+        <seg>但是,哪一個是最好的呢?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clinical risk calculators provide information about a person's chance of having a disease or encountering a clinical event.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T203831Z" creationid="hugoHOOVER" creationdate="20150717T203831Z">
+        <seg>臨床風險計算器提供信息，關於一個人患病或遭遇臨床事件的機會。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194604Z" creationid="hugoHOOVER" creationdate="20150716T194604Z">
+        <seg>結論</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current methods for the detection of Mycobacterium tuberculosis (Mtb) are either time consuming or require expensive instruments and are thus are not suitable for point-of-care diagnosis.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T005301Z" creationid="wanghu" creationdate="20150714T005301Z">
+        <seg>現有的用於檢測結核分枝桿菌(Mtb)的方法不僅耗時，而且要求昂貴的設備，因此不適合現場即時診斷(point-of-care diagnosis)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current version of Risk-O-Meter evaluates 30-day risk of hospital readmission.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T205236Z" creationid="hugoHOOVER" creationdate="20150717T205236Z">
+        <seg>目前的版本評估30天內的醫院再次入院風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data Science is the extraction of knowledge from large volumes of data that are structured or unstructured,&lt;t0/&gt; &lt;t1/&gt;which is a continuation of the field data mining and predictive analytics, also known as knowledge discovery and data mining (KDD).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150709T193327Z" creationid="wanghu" creationdate="20150709T193100Z">
+        <seg>數據科學是指從大量的結構化或者非結構化的數據中提煉知識，&lt;t0/&gt; &lt;t1/&gt;是信息挖掘和預測性分析的延續，也稱為知識探索和數據挖掘(KDD)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data Scientists are qualified people with strength and patience to tunnel through mountains of information and the technical skills in writing algorithms to extract insights from these troves of information.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150709T194326Z" creationid="wanghu" creationdate="20150709T194326Z">
+        <seg>數據科學家是兼備實力與耐性的人，通過設計算法來貫通信息技術技能這兩座大山，從而在信息中提取深刻的見解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Endoscopic biopsies for atrophic gastritis were obtained and histologically graded, based on the updated Sydney system.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T202135Z" creationid="hugoHOOVER" creationdate="20150716T202135Z">
+        <seg>獲得了針對萎縮性胃炎的內窺鏡組織活檢，並按照最新的悉尼評價體系(updated Sydney system)進行了組織學分級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter OmegaT, which I’ve tested out before but never really delved into using for my day to day work.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>我以前简单了解过 OmegaT，但没有用到日常工作中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a long time, OmegaT may have been best known for its “love it or hate it” feature of segmenting at the paragraph level.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT曾经以段落为句段划分单位，为此，不是让人对它一见钟情，就是让人敬而远之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, it creates a “target” folder into which it places your translated documents once they are created.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>比如，它会创建一个target文件夹，当你生成译文时，译文就会自动保存在这个文件夹内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For glossaries, OmegaT mainly uses tab-delimited plain text files in UTF-8 encoding with the .txt extension.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>对于术语库，OmegaT主要使用tab分隔的UTF-8编码且扩展名为.txt的纯文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For such audience, the biggest concern is to how do we do the same thing on R.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105709Z" creationid="bernstein" creationdate="20151225T105709Z">
+        <seg>對於這樣的受眾, 最大的關心是我們怎麼用R語言來做同樣的事情.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally, summarizing data means finding statistical figures such as mean, median, box plot etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T110954Z" creationid="bernstein" creationdate="20151225T110954Z">
+        <seg>通常, 匯總數據意味著找到統計學數字例如平均數, 中位數, 和箱形圖等.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>术语库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heartsome is a powerful tool at an attractive price, and it’s, in my experience, the best of the commercial TenTs if you don’t run Mac or Windows, or if you like to use OpenOffice.org file formats.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>HeartSome也很强大，价格也很实在，而且根据我的经验，如果不用 Mac 或者 Windows 系统，或者惯用 Openoff，那么HearSome是最好的商业翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hopefully this will make your journey much easier than it looks like.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105920Z" creationid="bernstein" creationdate="20151225T105920Z">
+        <seg>希望這樣會讓你們的旅程比看起來更簡單.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How OmegaT works</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT的工作原理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How machine learning is saving lives while saving hospitals money.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T201613Z" creationid="wanghu" creationdate="20150713T201613Z">
+        <seg>機器學習是如何在拯救生命的同時為醫院省錢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, help might be on the way thanks to a research project by Teredesai and his Center for Data Science colleagues.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T205851Z" creationid="wanghu" creationdate="20150713T205501Z">
+        <seg>然而，幫助就要來了，這歸功於Teredesai及其數據科學中心同事所進行的研究項目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, the proposed system framework is applicable to general clinical risk predictions.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T205339Z" creationid="hugoHOOVER" creationdate="20150717T205339Z">
+        <seg>然而，所提出的體系框架可應用於普通的臨床風險預測。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I also have to mention that this software is *fast,* and not just because I’ve recently had some speed issues with other tools.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>另外还有一点我一定要提一下，就是OmegaT反应非常快！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I am finding many of OmegaT’s features to be just what I need in a TenT.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>同时，我也发现 OmegaT 的很多功能都是我希望集成翻译工具中能具备的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I don’t have any complaints with Wordfast, but in order to run on my Linux computer system, it requires not only Microsoft Word, which I only use for Wordfast-related work, but also a program like CrossOver Linux that allows Windows software to run on Linux without a Windows license.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>我对 Wordfast 没有任何异议，但是为了在 Linux 系统上作业，不但要能运行 MS Word（我只用来做 Wordfast 相关的案子），还要能运行 CrossOver Linux （可实现无需 Windows 许可证就能在 Linux 上运行 Windows 软件）这种软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If understand well with scatter plots &amp; histogram, you can refer to guide on [data visualization in R](http://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T122054Z" creationid="bernstein" creationdate="20151225T122054Z">
+        <seg>如果對散點圖和直方圖理解得很好, 你可以參照該指南[R語言中的數據可視化](http://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you’re looking for a new or additional TenT for your office, I highly recommend OmegaT; even if you just test it out, it’s free, it’s easy, and it’s fast!</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>如果你在寻找其他的集成翻译工具，哪怕只是尝试，我强烈推荐OmegaT，况且它是免费的，用起来简单，跑起来也不是一般的快！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improve the problem, get more funding.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T204501Z" creationid="wanghu" creationdate="20150713T204501Z">
+        <seg>改善問題，獲得更多的資助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, re-admissions — sometimes within just a couple weeks — are such a big problem that the Affordable Care Act (aka Obamacare) includes measures to address the problem.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T203236Z" creationid="wanghu" creationdate="20150713T202328Z">
+        <seg>實際上，再次入院－有時候只在短短數週之內－是普及型醫療法案(即奧巴馬醫療)的一個大問題，採取措施來解決該問題。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this article I will cover primary ways to summarize data sets.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105840Z" creationid="bernstein" creationdate="20151225T105840Z">
+        <seg>在這篇文章中, 我將涵蓋匯總數據集的最主要的方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this demonstration paper, we describe different components of Risk-O-Meter and the intelligent algorithms associated with each of these components to evaluate risk of readmission using incomplete patient data inputs.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T205758Z" creationid="hugoHOOVER" creationdate="20150717T205758Z">
+        <seg>在這篇示範性論文宗，我們描述了Risk-O-Meter利用不完整患者數據輸入來評估再入院風險的不同組件，及其相關的智能算法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It could translate unformatted text files, and HTML, and perform only block-level segmentation (i.e. paragraphs instead of sentences).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T042640Z" creationid="hugoHOOVER" creationdate="20151225T042640Z">
+        <seg>它可以翻譯無格式文本文檔和HTML, 並且只處理區塊水平的文段(即段落替代句子).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is available in 27 languages.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>它的界面和文档被翻译成27种语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is free software originally developed by Keith Godfrey in 2000, and is currently developed by a team led by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>它是自由软件，最初的开发由Keith Godfrey在2000年进行，目前的开发工作由Didier Briel带领的团队进行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It subsequently saves that database to disk in Translation Memory eXchange (.tmx) format for use another day, in other projects, by other translators, and even with other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>它隨後以翻譯記憶交換文件(.tmx)格式存在硬盤中，以便在以后翻译时重用或者和其他使用OmegaT或其他CAT工具的译员进行交换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was originally written in C++.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T042021Z" creationid="hugoHOOVER" creationdate="20151225T042021Z">
+        <seg>最初是用C++編寫的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its features include customisable segmentation using regular expressions, translation memory with fuzzy matching and match propagation, glossary matching, dictionary matching, translation memory and reference material searching, and inline spell-checking using Hunspell spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>它的功能包括使用正则表达式的可自定义分段，带有模糊匹配和匹配传播的翻譯記憶，术语库匹配，词典匹配和参考资料搜索以及使用Hunspell拼写词典的内联拼写检查功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It’s called the Risk-O-Meter, and it’s already being used by one hospital system in the Seattle area.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T205950Z" creationid="wanghu" creationdate="20150713T205950Z">
+        <seg>該項目稱為Risk-O-Meter，已經應用於西雅圖地區的一個醫院體系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I’ve answered this question below.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103730Z" creationid="bernstein" creationdate="20151225T103730Z">
+        <seg>我在下文中回答了這個問題.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep readmitting patients within short windows after discharge, don’t get paid for treatment.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T204702Z" creationid="wanghu" creationdate="20150713T204702Z">
+        <seg>患者出院後短期內仍出現接收再入院的情況，就拿不到治療費用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lately I’ve been feeling like my quiver of TenTs needed an addition.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>最近我感觉得添置新的集成工具了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>METHODS: We studied 230 men in their 50s and 60s.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T203112Z" creationid="hugoHOOVER" creationdate="20150717T190158Z">
+        <seg>方法：我們研究了230名男性，METHODS: We studied 230 men in their 50s and 60s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Methods</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194553Z" creationid="hugoHOOVER" creationdate="20150716T194553Z">
+        <seg>方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next, (and I’m not blaming this on Heartsome, it may be something to do with my computer) I have had major frustrations with Heartsome slowdowns, when it has taken 15-20 minutes to convert a 5,000 word document to XLIFF format (required in order to translate) and four to six seconds to add a segment to the TM and then progress to the next segment, which adds up over the course of a 500 segment job.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>同时，我在 HeartSome 的反应慢也比较困惑，要花 15-20 分钟才能把 5000 字的 Word 文档转换成 XLIFF 格式，要花4-6 秒才能添加一个句段至TM并进入下一下句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ninety-five patients were enrolled in the study.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T195948Z" creationid="hugoHOOVER" creationdate="20150716T195944Z">
+        <seg>95名患者參加了這項研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No change, naturally enough, means no such update.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>沒有改變，自然就夠了，意味著沒有這樣的升級。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No light, no infection.” "这很简单。取一个痰样本、 处理解决方案，并把它放进读者，"说，德克萨斯州农业与机械大学健康科学中心的医学学院教授杰佛瑞 · Cirillo。"里面的观景窗，看起来产生光的解决方案与样品之间的反应。没有光，没有受感染。</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T020357Z" creationid="wanghu" creationdate="20150714T020357Z">
+        <seg>沒有光說明沒有受感染。” "这很简单。取一个痰样本、 处理解决方案，并把它放进读者，"说，德克萨斯州农业与机械大学健康科学中心的医学学院教授杰佛瑞 · Cirillo。"里面的观景窗，看起来产生光的解决方案与样品之间的反应。没有光，没有受感染。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now, the researchers who created it are looking to commercialize it, either by licensing the access to the cloud-based service or by starting their own company.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T210401Z" creationid="wanghu" creationdate="20150713T210401Z">
+        <seg>目前，創立它的研究者們正在尋求將其商業化，通過授權的形式讓用戶訪問基於雲的服務，或者創辦自己的公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now, you can select paragraph or sentence-level segmentation.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>不过现在可以选择以句子还是段落为划分单位了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT handles a translation job as a project, a hierarchy of folders with specific names.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT將每個翻譯工作作為一個項目，具有特定名稱的文件夾層次結構。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a computer-assisted translation tool written in the Java programming language.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT是一个使用Java编程语言编写的计算机辅助翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT适用于专业译员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT runs on Linux, Mac OS X and Microsoft Windows 98 SE or higher,[1] and requires Java 1.5.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT可运行于Linux、Mac OS X和Microsoft Windows 98 SE或更高版本，[1]并且需要Java 1.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT runs on any computer with a Java 2 Platform (i.e. Linux, Mac, Windows 98 or higher), and the OmegaT team (all volunteers) has helpfully provided a download of the software that includes a Java 2 Runtime Environment so that you don’t have to figure out if you have the correct Java version or not.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT 能运行在任何 Java 2 平台（即Linux、Mac、Windows98+）的电脑上，而OmegaT 的团队（全是志愿者）非常贴心，在软件下载包内已经包含了 Java 2 Runtime Environment，这样译者就不用再费心自己电脑的 Java 版本是不是符合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT was first developed by Keith Godfrey in 2000.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T041647Z" creationid="hugoHOOVER" creationdate="20151225T041647Z">
+        <seg>OmegaT是Keith Godfrey在2000年首先開發的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT, when directed, generates the (partially) translated versions in the /target/ subfolder.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>而在翻译结束后，已翻译的文档会出现在/target/子文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT’s processes (segmenting a source file, compiling target files, pulling up fuzzy matches) are so fast that you almost don’t realize they’re happening.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>它处理文件（对原文进行句段分割、编译目标文档、汇集模糊匹配）的速度相当之快，你还没意识到它就处理完了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you’ve downloaded the software, you need your source document to be in a format that OmegaT supports, which include OpenOffice.org files (note that OO.o now includes a wizard that can batch process the conversion of MS Office files into OO.o files; go to File&gt;Wizards&gt;Document Converter), Open XML files, text files, HTML files, Open Document Format files, INI files, Java resource bundles, XLIFF files, .po files and DocBook files.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT支持的文件格式很多，包括 Openoffice文件、Open XML 文件、.txt、.html、.odt、.ini、.xliff、.po等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other named folders include ones for automatic consultation within the program: /tm/ for existing translation pairs in .tmx format, /tm/auto/ for automatic translation of 100% matches, /glossary/ for glossaries, /dictionary/ for StarDict (and .tbx) dictionaries.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>在开始翻译前，用户还可以复制以前的翻译记忆到/tm/子文件夹，复制术语库到/glossary/文件夹以及复制StarDict词典到/dictionary/文件夹，在翻译时OmegaT会自动查阅它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other translators with different needs may have other opinions about OmegaT, since my use of TM is largely for my own productivity rather than because my clients request it, so issues such as exchanging TMs with other translators (which OmegaT can do) are not very important to me.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>其他的译者可能有不同的需求，对OmegaT的态度也有所差别，毕竟我使用TM主要是自己为了提高效率，客户并没有要求使用，所以我不怎么重视诸如与其他译者分享TM（OmegaT也能实现）的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Over the past few years I’ve primarily used two TenTs with which I’ve been very happy, Wordfast and Heartsome.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这些年来，我主要使用两种集成工具：Wordfast 和 Hearsome。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Patients scheduled for upper endoscopy at Severance Hospital, Korea, between August 2012 and October 2013, were recruited prospectively.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T215146Z" creationid="hugoHOOVER" creationdate="20150716T215146Z">
+        <seg>2012年8月至2013年10月期間，於韓國Severance醫院接受上消化道內窺鏡檢查的患者參加了這項前瞻性研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>People remain confused when it comes to summarizing data real quick in R. There are various options.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105216Z" creationid="bernstein" creationdate="20151225T105216Z">
+        <seg>用R語言進行數據快速匯總的時候, 人們總是很困惑. 有太多的選項.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>People who transition from SAS or SQL are used to writing simple queries on these languages to summarize data sets.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105537Z" creationid="bernstein" creationdate="20151225T105537Z">
+        <seg>從SAS或SQL過渡而來的人們習慣於用這些語言來寫簡單查詢來匯總數據集.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put simply, the law provides financial incentives for hospitals to improve readmission rates and financial sticks with which to punish hospitals where the problem persists.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T204443Z" creationid="wanghu" creationdate="20150713T204443Z">
+        <seg>簡單地說，該法案為改善再入院率的醫院提供財政激勵，同時向問題依然存在的醫院舉起大棒以懲罰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Results</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194558Z" creationid="hugoHOOVER" creationdate="20150716T194558Z">
+        <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Risk-O-Meter is designed in a way such that it is exible enough to accept limited or incomplete data inputs, and still manages to predict the clinical risk effciently and effectively.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T205123Z" creationid="hugoHOOVER" creationdate="20150717T205123Z">
+        <seg>Risk-O-Meter是按照這樣一種方式設計的，它足夠靈活從而能接受有限的或不完整的數據輸入，仍能管理並有效地預測臨床風險。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Risk-O-Meter: An Intelligent Clinical Risk Calculator We present a system called Risk-O-Meter to predict and analyze clinical risk via data imputation, visualization, predictive modeling, and association rule exploration.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T203703Z" creationid="hugoHOOVER" creationdate="20150717T203703Z">
+        <seg>Risk-O-Meter: 一個智能的臨床風險計算器 我們提供了一個系統，稱為Risk-O-Meter，用來預測和分析臨床風險，通過數據歸屬、可視化、預測模型和關聯規則的探索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Serum pepsinogen I/II ratios were lower in patients with atrophic gastritis than in those without it (antrum, 4.2 ± 1.7 vs. 5.2 ± 2.1, P = 0.040; corpus, 3.3 ± 1.9 vs. 5.4 ± 1.9, P &lt; 0.001).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T200302Z" creationid="hugoHOOVER" creationdate="20150716T200302Z">
+        <seg>在萎縮性胃炎患者體內，血清胃蛋白酶原 I/II的比值較未患病者低，(竇, 4.2 ± 1.7 vs. 5.2 ± 2.1, P = 0.040; 本體, 3.3 ± 1.9 vs. 5.4 ± 1.9, P &lt; 0.001).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Serum pepsinogen I/II ratios were significantly correlated with histologic atrophic gastritis (antrum, P = 0.030; corpus, P &lt; 0.001).</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T201822Z" creationid="hugoHOOVER" creationdate="20150716T201822Z">
+        <seg>血清胃蛋白酶原 I/II的比值與組織學萎縮性胃炎具有顯著的相關性(竇性, P = 0.030; 本體, P &lt; 0.001)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Serum pepsinogen I/II ratios, with these cut-off values, are useful for screening patients for the presence of atrophic gastritis.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T201651Z" creationid="hugoHOOVER" creationdate="20150716T201651Z">
+        <seg>採用這些臨界值的血清胃蛋白酶原I/II比值，對萎縮性胃炎患者的篩查是很有用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly structured files in standard CSV format are also supported, as well as TBX files.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>还支持使用标准CSV格式的类似结构的文件，对于TBX文件同样如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, this adds a few layers of upgrades for software that I really only use when I’m running Wordfast.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这就需要更新我在运行 Wordfast 时用到的软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, you can give the target document the same name as the source without having to worry about overwriting anything or figuring out which document is which.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>所以，生成的译文文档的文件名可以跟原文文档的文件名相同，而完全不用担心会因此而产生文件内容的覆盖或替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some people prefer a standalone tool, others a tool that works from within a program like Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>比如有的译者喜欢使用独立工具，有的则习惯在诸如 MS Office等软件中做翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some users are adamant that their tool has the best matching algorithm out there while others criticize the competition's pricing, support, you get the picture.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>一些工具得到了很多译者的强力支持，却也因价格、技术支持等因素收到其他译者的排斥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such glossaries can easily be created in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>文本编辑器中可以很容易创建这样的术语库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such tools could be highly useful to educate patients to understand and monitor their health conditions.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T204240Z" creationid="hugoHOOVER" creationdate="20150717T204240Z">
+        <seg>這樣的工具對教育患者了解和監控自身的健康狀況來說非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take a sputum sample, treat it with the solution, and put it inside the reader,” says Jeffrey Cirillo, a professor at the Texas A&amp;M University Health Science Center College of Medicine.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T020032Z" creationid="wanghu" creationdate="20150714T020032Z">
+        <seg>取一個痰樣本，用溶液處理，然後放進閱讀設備中，” 德克薩斯農機大學醫學院健康科學中心教授Jeffrey Cirillo說。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That’s how you should move to the next.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T104024Z" creationid="bernstein" creationdate="20151225T104024Z">
+        <seg>那是你應該怎麼進展到下階段.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Editor pane displays the source documents as individual “segments” for translation one segment at a time.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT会在编辑窗格的片段中显示已分段的源文档的可翻译内容供用户翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Editor pane displays the source documents as individual “segments” for translation one segment at at time.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T044057Z" creationid="hugoHOOVER" creationdate="20151225T044057Z">
+        <seg>編輯窗口將源文件顯示為獨立的片段以便於一次翻譯一個片段.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The design, synthesis, and evaluation of fluorogenic probes with high specificity for BlaC, a biomarker expressed by Mtb, are described.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T005804Z" creationid="wanghu" creationdate="20150714T005804Z">
+        <seg>描述了螢光探針的設計、合成與評價，以及具有高度特異性的BlaC，這是由Mtb表達的生物標誌物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first public release in February 2001[3] was written in Java.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T042116Z" creationid="hugoHOOVER" creationdate="20151225T042116Z">
+        <seg>2001年2月首次公開發布的版本[3]使用Java編寫.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fluorogenic probe CDG-3 is based on cephalosporin with substitutions at the 2 and 7 positions and it demonstrates over 120 000-fold selectivity for BlaC over TEM-1 Bla, the most common&lt;t0/&gt; &lt;t1/&gt;β&lt;t2/&gt;-lactamase.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T010325Z" creationid="wanghu" creationdate="20150714T005942Z">
+        <seg>螢光探針CDG-3在頭孢菌素的基礎上對位點2和7進行了取代，相較TEM-1 Bla(最常見的&lt;t0/&gt; &lt;t1/&gt;β&lt;t2/&gt;-內酰胺酶)，該探針對BlaC的靈敏度為120 000倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The latter scenario is bad for patients and bad for hospitals.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T204758Z" creationid="wanghu" creationdate="20150713T204758Z">
+        <seg>後一種情況對患者和醫院都是不益的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The mean age was 57.7 ± 12.1 years, and 44.2% of the patients were male.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T200019Z" creationid="hugoHOOVER" creationdate="20150716T200019Z">
+        <seg>平均年齡為57.7 ± 12.1歲，其中44.2%為男性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The optimal serum pepsinogen I/II ratio cut-off values for atrophic gastritis of the antrum and for the corpus were 4.9 and 3.5, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T201410Z" creationid="hugoHOOVER" creationdate="20150716T201410Z">
+        <seg>以血清胃蛋白酶原 I/II的比值作為生物標識物來預測竇性和本體萎縮性胃炎的最佳臨界值分別為4.9和3.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The optional Machine Translation pane shows machine translations from Google Translate and similar services.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>如果啟用了機器翻譯，相應的窗口會顯示由Google翻譯或其他類似服務所產生的譯文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The structure of a glossary file is extremely simple: the first column contains the source language word, the second column contains the corresponding target language words, the third column (optional) can contain anything including comments on context etc.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>术语库文件的结构非常简单：首列包含源语言词语，第二列包含对应的目标语言词语，第三列（可省略）与词语相关的上下文注释等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user copies non-translated documents into one named /source/ (or subfolders thereof).</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>用户把未翻译文档复制到其中的/source/子文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, OmegaT’s quick start guide (which promises that you can “Start using OmegaT in 5 minutes!” and I would agree!) shepherds you through the easily mastered basics of translating in the software’s interface.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>OmegaT有个快速入门指南（“承诺”你五分钟就能学会使用OmegaT），能教会你在界面内学会使用一些基本的翻译功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version used a proprietary translation memory format.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T042230Z" creationid="hugoHOOVER" creationdate="20151225T042230Z">
+        <seg>這個版本採用了用戶翻譯記憶格式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This week I’ve been using it on some non-rush work, and I’m really, really enjoying it.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>这周我用它来做一些不怎么赶的案子，感觉非常非常棒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To determine the optimal serum pepsinogen cut-off value for predicting atrophic gastritis.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T195531Z" creationid="hugoHOOVER" creationdate="20150716T195531Z">
+        <seg>為了確定預測萎縮性胃炎的最佳臨界值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation environment tools (TenTs), also referred to as CAT tools or translation memory tools, are the subject of numerous passionate discussions among translators. </seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>翻译集成工具通常也称为计算机辅助工具，或者翻译记忆工具，它是译者圈的热议话题之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately, that’s often just wishful thinking.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T201837Z" creationid="wanghu" creationdate="20150713T201837Z">
+        <seg>不幸的是，那往往只是一廂情願。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike existing risk calculators that are primarily designed for domain experts, Risk-O-Meter is useful to patients who are unfamiliar with medical terminologies, or providers who have limited information about a patient.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T204728Z" creationid="hugoHOOVER" creationdate="20150717T204728Z">
+        <seg>不同於現有的主要為領域專家設計風險計算器，Risk-O-Meter對不熟悉醫學術語學的患者，或缺乏足夠患者信息的供應商來說是很有用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a cut-off value of 4.9, the sensitivity and specificity of the serum pepsinogen I/II ratio for predicting atrophic gastritis in the antrum were 68.2% and 60.3%, respectively.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T201042Z" creationid="hugoHOOVER" creationdate="20150716T201042Z">
+        <seg>將臨界值設定為4.9時，竇性萎縮性胃炎預測的靈敏度和特異性分別為68.2%和60.3%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When most people leave the hospital after a lengthy stay, they probably assume they won’t be coming back again soon to deal with the same problem.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T201801Z" creationid="wanghu" creationdate="20150713T201801Z">
+        <seg>當大部分人在漫長停留之後離開醫院的時候，他們可能會假設短期之內自己不會再因為同樣的問題回到這裡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the user goes to translate a segment in the Editor pane, OmegaT automatically searches the .tmx files in the /tm/ hierarchy for previous translation pairs with similar source sentences and displays them in the Fuzzy Matches pane for insertion into the Editor pane with a keyboard shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>When the user goes to translate a segment in the Editor pane, OmegaT automatically searches the .tmx files in the /tm/ hierarchy for previous translation pairs with similar source sentences and displays them in the Fuzzy Matches pane for insertion into the Editor pane with a keyboard shortcut.进行翻译时，OmegaT会自动检查以前的翻译以寻找类似的句子，找到后会显示在模糊匹配窗格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the user leaves a segment, OmegaT normally first adds the source-target pair to its database in memory.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>當用戶完成翻譯並離開某一部分時，OmegaT首先會在記憶庫中的數據庫裡添加一對源文件--目的文件對。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast has the advantage of being quite similar in look and fee to, and quite compatible with the market leader SDL Trados, and Wordfast’s developer, Yves Champollion, is a very smart and helpful guy who provides excellent support for his product.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>Wordfast 的开发人 Yves Champollion 是一个非常聪明实干的家伙，他给自己的产品设置了大量不错的支持功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must choose one at first.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103750Z" creationid="bernstein" creationdate="20151225T103750Z">
+        <seg>首先你必須選一個.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>futurity: WEARABLE DEVICES</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150709T192856Z" creationid="wanghu" creationdate="20150709T192856Z">
+        <seg>futurity: 可穿戴設備</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>futurity: 可穿戴設備</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>futurity: WEARABLE DEVICES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>in one case I actually clicked “Create Translated Documents” again because I didn’t realize that OmegaT had taken only a few seconds to compile the translations in the 15-file project I was working on.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>有一次，我点了两次“生成译文”，因为我根本没意识到它只用了几秒钟就完成了有 15 个文件的项目的译文生成操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“A camera inside looks for a reaction between the sample and solution that produces light.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T020313Z" creationid="wanghu" creationdate="20150714T020313Z">
+        <seg>“內部的一個相機觀察樣本和溶液之間的反應，該反應會發光。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“If you can predict that, that’s a huge, huge cost saving for the hospitals,” said Ankur Teredesai, who manages the Center for Data Science at the University of Washington, Tacoma.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150713T205514Z" creationid="wanghu" creationdate="20150713T205426Z">
+        <seg>“如果能進行預測，那將為醫院節約大量的成本”，華盛頓大學(Tacoma)數據科學中心的主管Ankur Teredesai認為。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Our new, rapid point-of-care TB test dramatically reduces the current delays in diagnosis with incredible accuracy, accelerating appropriate treatment and reducing the death rate of the highly infectious disease.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T021706Z" creationid="wanghu" creationdate="20150714T021706Z">
+        <seg>"我们新的、 快速的点的护理结核病测试大大减少了当前延误诊断以难以置信的精确度，加速适当的治疗和减少死亡率的这种高度传染性的疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Unstructured data” can include emails, videos, photos, social media, and other user-generated content.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150709T193422Z" creationid="wanghu" creationdate="20150709T193422Z">
+        <seg>非結構化數據可以包括電郵、視頻、照片、社交媒體和其他用戶產生的內容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“液態金屬in its native form is not inkjet-able,” Rebecca Kramer表示， “So what we do is create liquid metal nanoparticles that are small enough to pass through an inkjet nozzle.” (信用: frankieleon/Flickr)</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>“Liquid metal in its native form is not inkjet-able,” Rebecca Kramer says. “So what we do is create liquid metal nanoparticles that are small enough to pass through an inkjet nozzle.” (Credit: frankieleon/Flickr)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>《应用化学》报道的一种新测试方法大大提高结核(TB)诊断的速度和准确性，在几分钟内即可提供测试报告。 % Findings from the first human clinical trial show the test can determine if a patient has tuberculosis with 86 percent sensitivity and 73 percent specificity.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T012316Z" creationid="wanghu" creationdate="20150714T012316Z">
+        <seg>《应用化学》报道的一种新测试方法大大提高结核(TB)诊断的速度和准确性，在几分钟内即可提供测试报告。 % 首次人體臨床試驗的結果表明，該測試方法可以確定患者是否患有結核病，靈敏度和特異性分別為86\%和73\%。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>一直以来，人们都在寻找一种低成本、操作简便同时具有根除结核杆菌潜在能力的检测方法。 % A new test could dramatically improve the speed and accuracy of diagnosing tuberculosis (TB), allowing health care providers to report test results in minutes.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T011918Z" creationid="wanghu" creationdate="20150714T011850Z">
+        <seg>一直以来，人们都在寻找一种低成本、操作简便同时具有根除结核杆菌潜在能力的检测方法。 % 一種新的測試可以顯著改善結核病診斷的速度和準確性，讓衛生保健提供者能在幾分鐘內提供檢測報告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>临床试验表明该测试的敏感性和特异性分别为73%和 86%。 % The test targets BlaC—an enzyme produced by the bacteria that cause TB—as an indicator of the bacteria’s presence.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T012607Z" creationid="wanghu" creationdate="20150714T012444Z">
+        <seg>临床试验表明该测试的敏感性和特异性分别为73%和 86%。 % 測試的靶點是BlaC，一種由結核病致病菌所產生的酶，可作為該病原菌存在性的指示劑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>在打印之後， the nanoparticles must be rejoined by applying light pressure, which renders the material conductive.</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>After printing, the nanoparticles must be rejoined by applying light pressure, which renders the material conductive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>未來的可穿戴技術可能來自噴墨打印機</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>NEXT WEARABLE TECH MAY COME FROM INKJET PRINTERS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>液態金屬</seg>
+      </tuv>
+      <tuv lang="ZH">
+        <seg>LIQUID METAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>研究者认为，目前没有任何诊断工具可与这种方法相媲美， 别的技术需要花费几个月的时间才能达到相同的检测灵敏度，同时价格昂贵。 % The latest FDA-approved model cost upwards of $20,000.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T020657Z" creationid="wanghu" creationdate="20150714T020522Z">
+        <seg>研究者认为，目前没有任何诊断工具可与这种方法相媲美， 别的技术需要花费几个月的时间才能达到相同的检测灵敏度，同时价格昂贵。 % 
+一项由美国食品药品管理局批准的最新模式成本超过了2万美元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>该测试的靶点为一种由结核分枝杆菌产生的酶(BlaC)。 ％ Until now, it has not been possible to target a specific TB enzyme for diagnosis.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="wanghu" changedate="20150714T013242Z" creationid="wanghu" creationdate="20150714T012633Z">
+        <seg>该测试的靶点为一种由结核分枝杆菌产生的酶(BlaC)。 % 迄今為止，不可能針對特殊酶來診斷結核病。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

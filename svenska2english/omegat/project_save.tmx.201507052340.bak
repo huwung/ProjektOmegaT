@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>How OmegaT works</seg>
+      </tuv>
+      <tuv lang="sv" changeid="wanghu" changedate="20150705T153837Z" creationid="wanghu" creationdate="20150705T153837Z">
+        <seg>Arbetsflöde i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is free software originally developed by Keith Godfrey in 2000, and is currently developed by a team led by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="sv" changeid="wanghu" changedate="20150705T153439Z" creationid="wanghu" creationdate="20150705T153439Z">
+        <seg>Det är ett fritt program ursprungligen utvecklat år 2000 av Keith Godfrey och utvecklas nu av en grupp ledd av Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its features include customisable segmentation using regular expressions, translation memory with fuzzy matching and match propagation, glossary matching, dictionary matching, translation memory and reference material searching, and inline spell-checking using Hunspell spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="sv" changeid="wanghu" changedate="20150705T153646Z" creationid="wanghu" creationdate="20150705T153646Z">
+        <seg>Några av dess funktioner är användardefinierad segmentering, luddiga träffar, träffspridning, ordlisteträffar, kontextsökning i översättningsminnen och nyckelordssökning i referensmaterial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a computer-assisted translation tool written in the Java programming language.</seg>
+      </tuv>
+      <tuv lang="sv" changeid="wanghu" changedate="20150705T153414Z" creationid="wanghu" creationdate="20150705T153414Z">
+        <seg>OmegaT är ett datorbaserat översättningsverktyg skrivet i Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="sv" changeid="wanghu" changedate="20150705T153513Z" creationid="wanghu" creationdate="20150705T153513Z">
+        <seg>OmegaT är avsett för professionella översättare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT runs on Linux, Mac OS X and Microsoft Windows 98 SE or higher,[1] and requires Java 1.5.</seg>
+      </tuv>
+      <tuv lang="sv" changeid="wanghu" changedate="20150705T153755Z" creationid="wanghu" creationdate="20150705T153755Z">
+        <seg>Det kräver Java 1.5, vilket finns tillgängligt för Linux, Mac OS X och Microsoft Windows 98 SE och senare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>compositions: hydrogen bomb experiment (hydrogen bomb experiment)</seg>
+      </tuv>
+      <tuv lang="sv">
+        <seg>Sammansättningar: vätebombsexperiment (hydrogen bomb experiment)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

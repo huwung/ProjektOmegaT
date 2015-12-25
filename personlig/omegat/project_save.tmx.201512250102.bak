@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- There is actually a sense of completion when you're done, which is amazing.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T165505Z" creationid="bernstein" creationdate="20151224T165505Z">
+        <seg>- 當你完成的時候，會有一種令人驚奇的實際的完滿的感覺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- Your "to do" list each day is simply yesterday's email inbox (hence, "Yesterbox").</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T070346Z" creationid="bernstein" creationdate="20151224T070346Z">
+        <seg>- 簡單地，每天的待辦事項列表就是前一天的收件箱中的電子郵件(因此稱為"Yesterbox")。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And even if I do get to inbox zero (which has happened less than 10 times in the past decade for me), it lasts only a few hours.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T065502Z" creationid="bernstein" creationdate="20151224T065502Z">
+        <seg>而且即便我確實實現了收件箱清零(近十年來僅出現過少於十次)，這樣的情形只能維持幾小時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the problem is that it's a never-ending treadmill, there's never a sense of completion, and it's virtually impossible to get to the elusive goal of "inbox zero" because as soon as I start sending emails, replies start coming back to me.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T065123Z" creationid="bernstein" creationdate="20151224T065123Z">
+        <seg>但问题是，這是一个永无休止的單調乏味的工作，永远不会有完滿的感觉，並且事實上几乎不可能到达收件箱清零這一难以实现的目标，因为只要我开始发送电子邮件，答复开始回到我身边。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For over a decade now, my email inbox has been my to do list… so the longer it gets, the more stressed I feel.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T062606Z" creationid="bernstein" creationdate="20151224T062606Z">
+        <seg>從目前開始的超過十年的時間中，我的電子郵箱成為了我的待辦事項列表。時間越長，我感受到的壓力越大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are the details behind the Yesterbox technique:</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T070034Z" creationid="bernstein" creationdate="20151224T070034Z">
+        <seg>這裡是Yesterbox技術背後的細節：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I would say that on half the days, I'm actually completely done with all my email obligations by NOON, which has been an incredibly freeing feeling.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T170137Z" creationid="bernstein" creationdate="20151224T170137Z">
+        <seg>我想說，半數的情況下，事實上我到中午就已經完成了我所有的電子郵件義務，這是一種難以置信的釋放的感覺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 2012, I felt like my email had gotten out of control.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T065601Z" creationid="bernstein" creationdate="20151224T065601Z">
+        <seg>在2012年，我覺得自己的電子郵箱已經失去了控制。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

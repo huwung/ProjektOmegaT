@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And even if I do get to inbox zero (which has happened less than 10 times in the past decade for me), it lasts only a few hours.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T065502Z" creationid="bernstein" creationdate="20151224T065502Z">
+        <seg>而且即便我確實實現了收件箱清零(近十年來僅出現過少於十次)，這樣的情形只能維持幾小時。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But the problem is that it's a never-ending treadmill, there's never a sense of completion, and it's virtually impossible to get to the elusive goal of "inbox zero" because as soon as I start sending emails, replies start coming back to me.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T065123Z" creationid="bernstein" creationdate="20151224T065123Z">
+        <seg>但问题是，這是一个永无休止的單調乏味的工作，永远不会有完滿的感觉，並且事實上几乎不可能到达收件箱清零這一难以实现的目标，因为只要我开始发送电子邮件，答复开始回到我身边。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For over a decade now, my email inbox has been my to do list… so the longer it gets, the more stressed I feel.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T062606Z" creationid="bernstein" creationdate="20151224T062606Z">
+        <seg>從目前開始的超過十年的時間中，我的電子郵箱成為了我的待辦事項列表。時間越長，我感受到的壓力越大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In 2012, I felt like my email had gotten out of control.</seg>
+      </tuv>
+      <tuv lang="EN-GB" changeid="bernstein" changedate="20151224T065601Z" creationid="bernstein" creationdate="20151224T065601Z">
+        <seg>在2012年，我覺得自己的電子郵箱已經失去了控制。</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

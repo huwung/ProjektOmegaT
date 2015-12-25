@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="DE-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Alle möglichen Leute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T060344Z" creationid="hugoHOOVER" creationdate="20151225T060344Z">
+        <seg>All sorts of people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Das sind externe Mitarbeiter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T060255Z" creationid="hugoHOOVER" creationdate="20151225T060255Z">
+        <seg>These are external employees.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Der persönliche Trainer kostet mehr.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T055619Z" creationid="hugoHOOVER" creationdate="20151225T055619Z">
+        <seg>The personal trainer costs more.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Die offene Tür ist rot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T060324Z" creationid="hugoHOOVER" creationdate="20151225T060324Z">
+        <seg>The open door is red.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Ein gelber Vogel sitzt in dem Baum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T060401Z" creationid="hugoHOOVER" creationdate="20151225T060401Z">
+        <seg>A yellow bird is sitting in the tree.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Sie sind die starken Frauen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T060312Z" creationid="hugoHOOVER" creationdate="20151225T060312Z">
+        <seg>They are the strong women.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE-DE">
+        <seg>Wir sind wichtige Leute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T054716Z" creationid="hugoHOOVER" creationdate="20151225T054716Z">
+        <seg>We are important people.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

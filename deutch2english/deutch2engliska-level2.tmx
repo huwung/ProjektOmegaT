@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="DE-DE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="DE-DE">
+        <seg>die frau</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="hugoHOOVER" changedate="20151225T054033Z" creationid="hugoHOOVER" creationdate="20151225T054033Z">
+        <seg>the woman</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

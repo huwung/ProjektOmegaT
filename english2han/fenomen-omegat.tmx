@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r8005" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>### REFERENCES</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T095544Z" creationid="bernstein" creationdate="20151225T095544Z">
+        <seg>### 參考文獻</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
