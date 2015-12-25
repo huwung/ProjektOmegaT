@@ -1,14 +1,14 @@
-25.12.15 13:03
-Projektstatistik
+12/25/15 5:48 PM
+Project Statistics
 
-                     	Segmente	Wörter	Zeichen (ohne Leerzeichen)	Zeichen (mit Leerzeichen)	Dateien	
-Gesamt:              	      69	  1119	                      6229	                     7267	      1	
-Verbleibend:         	      45	   682	                      3803	                     4435	      1	
-Einmalig:            	      69	  1119	                      6229	                     7267	      1	
-Verbleibend einmalig:	      45	   682	                      3803	                     4435	      1	
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      49	 1452	                       6520	                         7928	     1	
+Remaining:       	      49	 1452	                       6520	                         7928	     1	
+Unique:          	      49	 1452	                       6520	                         7928	     1	
+Unique Remaining:	      49	 1452	                       6520	                         7928	     1	
 
 
-Statistik einzelner Dateien:
+Individual File Statistics:
 
-Dateiname            	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter:	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
-2015-11-10-omegat.txt	             69	                   45	                69	                             45	         1119	                 682	            1119	                          682	                             6229	                                   3803	                                6229	                                             3803	                            7267	                                  4435	                               7267	                                            4435	
+File Name          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+yesterbox.intro.txt	            49	                49	             49	                       49	       1452	           1452	        1452	                  1452	                             6520	                                 6520	                              6520	                                        6520	                               7928	                                   7928	                                7928	                                          7928	

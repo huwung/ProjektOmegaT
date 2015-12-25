@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Editor pane displays the source documents as individual “segments” for translation one segment at at time.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T044057Z" creationid="hugoHOOVER" creationdate="20151225T044057Z">
+        <seg>編輯窗口將源文件顯示為獨立的片段以便於一次翻譯一個片段.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The design, synthesis, and evaluation of fluorogenic probes with high specificity for BlaC, a biomarker expressed by Mtb, are described.</seg>
       </tuv>
       <tuv lang="ZH" changeid="wanghu" changedate="20150714T005804Z" creationid="wanghu" creationdate="20150714T005804Z">
