@@ -1,0 +1,19 @@
+---
+layout: article
+title: "Scrapy"
+categories: data
+excerpt: "Scrapy is an application framework for crawling web sites and extracting structured data which can be used for a wide range of useful applications, like data mining, information processing or historical archival."
+image:
+  feature: /banners/banner.stars.jpg
+  teaser: /teasers/teasers.data.jpg
+  thumb:
+---
+
+### REFERENCES
+
+- [Scrapy Tutorial](http://doc.scrapy.org/en/latest/intro/tutorial.html)
+- [Building a Web Crawler with Scrapy](http://blog.siliconstraits.vn/building-web-crawler-scrapy/)
+- [Scrapy框架](http://www.jianshu.com/p/078ad2067419)
+- [Scrapy框架1](http://blog.csdn.net/scopop/article/details/7781316)
+
+

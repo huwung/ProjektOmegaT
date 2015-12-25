@@ -1,0 +1,42 @@
+# Yesterbox
+
+For over a decade now, my email inbox has been my to do list… so the longer it gets, the more stressed I feel. But the problem is that it's a never-ending treadmill, there's never a sense of completion, and it's virtually impossible to get to the elusive goal of "inbox zero" because as soon as I start sending emails, replies start coming back to me. And even if I do get to inbox zero (which has happened less than 10 times in the past decade for me), it lasts only a few hours.
+
+In 2012, I felt like my email had gotten out of control. I felt like it was a never-ending treadmill, and a lot of important emails I would actually end up never getting to because they would take a long time to respond to and I would just end up procrastinating… and several months later, they were still unanswered.
+
+At the end of 2012, I started experimenting with an email management technique which has actually worked out surprisingly well for me, and I'd love for more people to try it out and share it with others. I call my technique "Yesterbox", because the basic premise is that each day your to do list is yesterday's inbox instead of today's inbox.
+
+Here are the details behind the Yesterbox technique:
+
+- Your "to do" list each day is simply yesterday's email inbox (hence, "Yesterbox"). The great thing about this is when you get up in the morning, you know exactly how many emails you have to get through, there's a sense of progress as you process each email from yesterday and remove it from your inbox, and there's actually a point when you have zero emails left to process from yesterday.
+
+- There is actually a sense of completion when you're done, which is amazing. I would say that on half the days, I'm actually completely done with all my email obligations by NOON, which has been an incredibly freeing feeling. Even though my responses to most emails are not the same day, I actually end up being MORE responsive than I have been in the past, because most people will get a response the day after (as opposed to a week after, a month after, or several months after which used to happen all the time because I would always procrastinate on the hard emails).
+If it can wait 48 hours without causing harm, then you are not allowed to respond to any emails that come in today, even if it's a simple one-word reply. This is the part that really takes a lot of discipline for the first week or so, because it is really really tempting to respond to emails that come in. Basically, you need to psychologically train yourself to not worry about emails that are coming in… don't think of them as being in your inbox, that's tomorrow's to do list… unless it can't wait 48 hours, they are not your problem today. Your focus today is just on clearing out yesterday's inbox.
+When processing yesterday's inbox, you must process 10 of yesterday's emails before you're allowed to look at any emails that are coming in today. After you've processed 10 (meaning removed them from yesterday's inbox either by replying, filing, deleting, or calendaring them (more on that below), then your "reward" is that you get to read the new emails that have come in. (Generally, I've found that it takes me about 30 minutes to process 10 emails.)
+
+- We're all guilty of procrastinating and looking for the easy emails to respond to first. By forcing yourself to do 10 at a time of yesterday's emails (and not allowing yourself to read any new emails that come in today until you do 10 from yesterday), it's a lot easier to power through the annoying or harder ones… and as you make progress towards the finish line of zero emails from yesterday, you see the finish line getting closer and closer… and when you're done processing all of yesterday's emails, you're done for the day.
+
+If you're using Outlook, one tip to avoid cheating and reading today's emails prematurely is to simply collapse your "Today" group of emails by clicking on the arrow in the header (to the left of the word "TODAY").
+Calendaring: For any email from yesterday that takes more than 10 minutes to respond, or requires additional research, etc., you should simply file it away into a folder and then schedule a time on your calendar in the future to respond, as if it were a meeting. On my calendar appointments, I just put the name of the folder I filed it away in, as well as the subject line of the email I filed away.
+
+- So if you have an email that will take an hour to respond to, just set it up as a 1-hour meeting at some point in the future. This will make sure that you always have enough time to respond to that email in the future. The act of filing that email away in a folder means it's out of your inbox so it's not stressing you out anymore… You know it will be responded to properly because you've set an appointment for it.
+You also need to set a recurring appointment to go through yesterday's inbox every day. For me, getting through the previous day's email takes about 3 hours, so I simply schedule a 3-hour meeting at the beginning of each day for Yesterbox. My assistant knows that if I need to take a morning meeting, that the email time can't go away -- it needs to be rescheduled for later in the day. Or on the rare occasion there isn't enough time in the day, then my assistant knows that there needs to be makeup time scheduled the next day for time lost on the current day.
+When in your "reward" phase of reading the latest emails from today, you're only allowed to do the following with today's emails: delete, file, or forward. You are not allowed to reply unless it can't wait 48 hours. The one exception to that rule is if there's an email chain from yesterday but the chain is continuing through today, it's okay to respond to one of today's emails in that chain if doing so means you get to delete or file yesterday's email in that chain (in other words, it's allowing you to make progress on yesterday's inbox).
+If you need to refer to an email later (for example, to follow up and make sure something didn't slip through the cracks when you asked someone else to follow up), schedule a meeting on your calendar and file the email into another folder, with a reminder in the calendar appointment to refer back to that folder and what the name of the folder is.
+If you fall behind and have emails that are older than yesterday's inbox (yes, it still happens), schedule additional time on your calendar to catch up to emails older than yesterday's inbox. However, each day you should start with yesterday's inbox as your "to do" list FIRST… this means you get a fresh start each morning and can be done with yesterday's inbox by noon just like you would be if you hadn't fallen behind.
+
+- If you go on vacation and aren't planning on keeping up with emails, then be sure to schedule enough email catchup time in your calendar for when you get back from vacation.
+For emails that can wait (such as videos, non-urgent articles, etc.) and have no real deadline, send those emails to another email address (such as your personal email address -- for me, I send them to my me.com email address) and just go through that other email inbox when you're trying to kill time, like on a plane, at the gym, waiting in line, etc. When people send me a video link, I just respond with something along the lines of "Thanks! I've put it on my treadmill video playlist!"
+
+- There's also a product called Pocket that is a good "save to read later" app and browser plugin.
+Put emails that are notes into Evernote and remove them from your inbox.
+
+
+So I encourage you to try out the Yesterbox technique and share it with friends. For me, it took about a week to psychologically get used to it, and I feel a lot less stressed about my email nowadays.
+
+(The other great thing about this is that it actually has beneficial network effects… the more people that adopt the Yesterbox technique, the more in control of their inbox everyone will feel!)
+
+-Tony Hsieh
+CEO - Zappos.com
+DowntownProject.com
+Yesterbox.com
