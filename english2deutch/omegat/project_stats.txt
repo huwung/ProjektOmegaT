@@ -1,0 +1,14 @@
+25.12.15 13:54
+Projektstatistik
+
+                     	Segmente	Wörter	Zeichen (ohne Leerzeichen)	Zeichen (mit Leerzeichen)	Dateien	
+Gesamt:              	       3	    13	                        75	                       85	      1	
+Verbleibend:         	       0	     0	                         0	                        0	      0	
+Einmalig:            	       3	    13	                        75	                       85	      1	
+Verbleibend einmalig:	       0	     0	                         0	                        0	      0	
+
+
+Statistik einzelner Dateien:
+
+Dateiname	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter:	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
+dec.txt  	              3	                    0	                 3	                              0	           13	                   0	              13	                            0	                               75	                                      0	                                  75	                                                0	                              85	                                     0	                                 85	                                               0	

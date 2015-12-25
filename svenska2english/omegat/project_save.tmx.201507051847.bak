@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="SV"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="SV">
+        <seg>Sammansättningar: vätebombsexperiment (hydrogen bomb experiment)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T104708Z" creationid="wanghu" creationdate="20150705T104708Z">
+        <seg>compositions: hydrogen bomb experiment (hydrogen bomb experiment)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

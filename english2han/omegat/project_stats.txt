@@ -1,0 +1,14 @@
+25.12.15 13:03
+Projektstatistik
+
+                     	Segmente	Wörter	Zeichen (ohne Leerzeichen)	Zeichen (mit Leerzeichen)	Dateien	
+Gesamt:              	      69	  1119	                      6229	                     7267	      1	
+Verbleibend:         	      45	   682	                      3803	                     4435	      1	
+Einmalig:            	      69	  1119	                      6229	                     7267	      1	
+Verbleibend einmalig:	      45	   682	                      3803	                     4435	      1	
+
+
+Statistik einzelner Dateien:
+
+Dateiname            	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter:	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
+2015-11-10-omegat.txt	             69	                   45	                69	                             45	         1119	                 682	            1119	                          682	                             6229	                                   3803	                                6229	                                             3803	                            7267	                                  4435	                               7267	                                            4435	

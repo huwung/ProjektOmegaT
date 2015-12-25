@@ -1,0 +1,16 @@
+25.12.15 13:26
+Projektstatistik
+
+                     	Segmente	Wörter	Zeichen (ohne Leerzeichen)	Zeichen (mit Leerzeichen)	Dateien	
+Gesamt:              	      17	    60	                       467	                      510	      3	
+Verbleibend:         	       2	     7	                        98	                      103	      2	
+Einmalig:            	      13	    50	                       374	                      411	      3	
+Verbleibend einmalig:	       2	     7	                        98	                      103	      2	
+
+
+Statistik einzelner Dateien:
+
+Dateiname     	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter:	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
+sentences.docx	             11	                    0	                11	                              0	           43	                   0	              43	                            0	                              276	                                      0	                                 276	                                                0	                             308	                                     0	                                308	                                               0	
+sentences.txt 	              5	                    1	                 1	                              1	           12	                   2	               2	                            2	                              131	                                     38	                                  38	                                               38	                             138	                                    39	                                 39	                                              39	
+test.docx     	              1	                    1	                 1	                              1	            5	                   5	               5	                            5	                               60	                                     60	                                  60	                                               60	                              64	                                    64	                                 64	                                              64	
