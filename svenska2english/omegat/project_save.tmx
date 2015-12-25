@@ -1,9 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
+<<<<<<< HEAD
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r8005" segtype="sentence" srclang="SV"/>
   <body>
 <!-- Default translations -->
+=======
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="SV"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="SV">
+        <seg>(han kanske kommer, men å andra sidan kanske han inte gör det.)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143349Z" creationid="wanghu" creationdate="20150708T143349Z">
+        <seg>(he might come, and then again he might not.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>How OmegaT works</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T153837Z" creationid="wanghu" creationdate="20150705T153837Z">
+        <seg>Arbetsflöde i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>It is free software originally developed by Keith Godfrey in 2000, and is currently developed by a team led by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T153439Z" creationid="wanghu" creationdate="20150705T153439Z">
+        <seg>Det är ett fritt program ursprungligen utvecklat år 2000 av Keith Godfrey och utvecklas nu av en grupp ledd av Didier Briel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>Its features include customisable segmentation using regular expressions, translation memory with fuzzy matching and match propagation, glossary matching, dictionary matching, translation memory and reference material searching, and inline spell-checking using Hunspell spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T153646Z" creationid="wanghu" creationdate="20150705T153646Z">
+        <seg>Några av dess funktioner är användardefinierad segmentering, luddiga träffar, träffspridning, ordlisteträffar, kontextsökning i översättningsminnen och nyckelordssökning i referensmaterial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>OmegaT is a computer-assisted translation tool written in the Java programming language.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T153414Z" creationid="wanghu" creationdate="20150705T153414Z">
+        <seg>OmegaT är ett datorbaserat översättningsverktyg skrivet i Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>OmegaT is intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T153513Z" creationid="wanghu" creationdate="20150705T153513Z">
+        <seg>OmegaT är avsett för professionella översättare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>OmegaT runs on Linux, Mac OS X and Microsoft Windows 98 SE or higher,[1] and requires Java 1.5.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150705T153755Z" creationid="wanghu" creationdate="20150705T153755Z">
+        <seg>Det kräver Java 1.5, vilket finns tillgängligt för Linux, Mac OS X och Microsoft Windows 98 SE och senare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>Sammansättningar: vätebombsexperiment.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T141632Z" creationid="wanghu" creationdate="20150708T141632Z">
+        <seg>compositions: hydrogen bomb experiment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>compositions: hydrogen bomb experiment (hydrogen bomb experiment)</seg>
+      </tuv>
+      <tuv lang="EN">
+        <seg>Sammansättningar: vätebombsexperiment (hydrogen bomb experiment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>ett längdmått</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143808Z" creationid="wanghu" creationdate="20150708T143808Z">
+        <seg>10 kilometer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>ett längdmått (= 10 kilometer)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143435Z" creationid="wanghu" creationdate="20150708T143435Z">
+        <seg>10 kilometer (= 10 kilometer)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>experimentell.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T141805Z" creationid="wanghu" creationdate="20150708T141805Z">
+        <seg>experimental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>han kanske kommer, men å andra sidan kanske han inte gör det.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143717Z" creationid="wanghu" creationdate="20150708T143717Z">
+        <seg>he might come, and then again he might not.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>han är åtskilligt yngre än sin bror</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143818Z" creationid="wanghu" creationdate="20150708T143818Z">
+        <seg>he is a good deal younger than his brother</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>han är åtskilligt yngre än sin bror (he is a good deal (lot) younger than his brother)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143456Z" creationid="wanghu" creationdate="20150708T143456Z">
+        <seg>he is a good deal younger than his brother (he is a good deal (lot) younger than his brother)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>i förskott</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143801Z" creationid="wanghu" creationdate="20150708T143801Z">
+        <seg>in advance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>i förskott (in advance)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143427Z" creationid="wanghu" creationdate="20150708T143427Z">
+        <seg>in advance (in advance)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>många är emot medicinska experiment på människor.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T141711Z" creationid="wanghu" creationdate="20150708T141711Z">
+        <seg>many people are against medical experiments on humans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>smått exotisk</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143752Z" creationid="wanghu" creationdate="20150708T143752Z">
+        <seg>quite exotic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>smått exotisk (quite exotic)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143414Z" creationid="wanghu" creationdate="20150708T143414Z">
+        <seg>quite exotic (quite exotic)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>tankeexperiment.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T141843Z" creationid="wanghu" creationdate="20150708T141843Z">
+        <seg>intellectual experiment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>verksamheten har redan startat så smått</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143741Z" creationid="wanghu" creationdate="20150708T143741Z">
+        <seg>business has already got under way on a small scale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>verksamheten har redan startat så smått (business has already got under way on a small scale)</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T143407Z" creationid="wanghu" creationdate="20150708T143407Z">
+        <seg>business has already got under way on a small scale (business has already got under way on a small scale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="SV">
+        <seg>vätebombsexperiment.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="wanghu" changedate="20150708T141907Z" creationid="wanghu" creationdate="20150708T141907Z">
+        <seg>hydrogen bomb experiment.</seg>
+      </tuv>
+    </tu>
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45
 <!-- Alternative translations -->
   </body>
 </tmx>

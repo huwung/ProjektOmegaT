@@ -15,7 +15,11 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>DE-DE</source_lang>
+<<<<<<< HEAD
         <target_lang>ZH-CN</target_lang>
+=======
+        <target_lang>ZH-TW</target_lang>
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45
         <source_tok>org.omegat.tokenizer.LuceneGermanTokenizer</source_tok>
         <target_tok>org.omegat.tokenizer.LuceneSmartChineseTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>

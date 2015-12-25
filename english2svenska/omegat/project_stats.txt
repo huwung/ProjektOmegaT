@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 12/26/15 12:22 AM
 Project Statistics
 
@@ -5,9 +6,23 @@ Project Statistics
 Total:           	       0	    0	                          0	                            0	     0	
 Remaining:       	       0	    0	                          0	                            0	     0	
 Unique:          	       0	    0	                          0	                            0	     0	
+=======
+7/8/15 10:58 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      11	   52	                        284	                          325	     1	
+Remaining:       	       0	    0	                          0	                            0	     0	
+Unique:          	      11	   52	                        284	                          325	     1	
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45
 Unique Remaining:	       0	    0	                          0	                            0	     0	
 
 
 Individual File Statistics:
 
+<<<<<<< HEAD
 File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+=======
+File Name     	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+sentences.docx	            11	                 0	             11	                        0	         52	              0	          52	                     0	                              284	                                    0	                               284	                                           0	                                325	                                      0	                                 325	                                             0	
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45

@@ -1,0 +1,14 @@
+25.12.15 14:41
+Projektstatistik
+
+                     	Segmente	Wörter	Zeichen (ohne Leerzeichen)	Zeichen (mit Leerzeichen)	Dateien	
+Gesamt:              	       8	   164	                       854	                     1010	      1	
+Verbleibend:         	       6	   129	                       635	                      758	      1	
+Einmalig:            	       8	   164	                       854	                     1010	      1	
+Verbleibend einmalig:	       6	   129	                       635	                      758	      1	
+
+
+Statistik einzelner Dateien:
+
+Dateiname	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter:	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
+test.txt 	              8	                    6	                 8	                              6	          164	                 129	             164	                          129	                              854	                                    635	                                 854	                                              635	                            1010	                                   758	                               1010	                                             758	

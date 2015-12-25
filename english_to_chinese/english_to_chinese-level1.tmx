@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>"Cognitive business is at the nexus of exploiting digital transformation and digital intelligence powered by capabilities like Watson," he said.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T062624Z" creationid="hugoHOOVER" creationdate="20151225T062624Z">
+        <seg>"Cognitive business is at the nexus of exploiting digital transformation and digital intelligence powered by capabilities like Watson,"他說.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Understandably, Picciano touted IBM's Watson cognitive computing capabilities as a way to achieve this goal.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T062339Z" creationid="hugoHOOVER" creationdate="20151225T062339Z">
+        <seg>理所當然地, Picciano將IBM Watson的認知計算能力吹捧為達成該目標的一種方法.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
