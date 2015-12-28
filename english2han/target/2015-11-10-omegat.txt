@@ -1,0 +1,61 @@
+---
+layout: default
+title:  "翻譯工具: omegaT"
+---
+<img src="/images/logo_omegat.jpg" class="fit image">
+omegaT 是一個免費的電腦輔助的翻譯工具，由java語言編寫而成。
+
+## installation
+
+*在brew或brew cask中沒有結果*.
+
+OmegaT适用于专业译员。它的功能包括使用正则表达式的可自定义分段，带有模糊匹配和匹配传播的翻譯記憶，术语库匹配，词典匹配和参考资料搜索以及使用Hunspell拼写词典的内联拼写检查功能。
+
+OmegaT可运行于Linux、Mac OS X和Microsoft Windows 98 SE或更高版本，[1]并且需要Java 1.5。它的界面和文档被翻译成27种语言。在2010年对458名专业译员的调查[2]表明，OmegaT的用户数达到Wordfast、DejaVu和MemoQ的1/3，且达到了市场领导者塔多思的1/8。
+
+## 發展歷史
+
+OmegaT是Keith Godfrey在2000年首先開發的. 最初是用C++編寫的.
+
+2001年2月首次公開發布的版本[3]使用Java編寫. 這個版本採用了用戶翻譯記憶格式. 它可以翻譯無格式文本文檔和HTML, 並且只處理區塊水平的文段(即段落替代句子).
+
+## 工作原理
+
+OmegaT將每個翻譯工作作為一個項目，具有特定名稱的文件夾層次結構。The user copies non-translated documents into a one named /source/ (or subfolders thereof). 編輯窗口將源文件顯示為獨立的片段以便於一次翻譯一個片段. 而在翻译结束后，已翻译的文档会出现在/target/子文件夹中。
+
+在开始翻译前，用户还可以复制以前的翻译记忆到/tm/子文件夹，复制术语库到/glossary/文件夹以及复制StarDict词典到/dictionary/文件夹，在翻译时OmegaT会自动查阅它们。
+
+When the user goes to translate a segment in the Editor pane, OmegaT automatically searches the .tmx files in the /tm/ hierarchy for previous translation pairs with similar source sentences and displays them in the Fuzzy Matches pane for insertion into the Editor pane with a keyboard shortcut.进行翻译时，OmegaT会自动检查以前的翻译以寻找类似的句子，找到后会显示在模糊匹配窗格中。The Glossary and Dictionary panes provide similar automatic look-up functions for any glossaries and dictionaries in the corresponding named folders in the project. 如果啟用了機器翻譯，相應的窗口會顯示由Google翻譯或其他類似服務所產生的譯文。
+
+當用戶完成翻譯並離開某一部分時，OmegaT首先會在記憶庫中的數據庫裡添加一對源文件--目的文件對。它隨後以翻譯記憶交換文件(.tmx)格式存在硬盤中，以便在以后翻译时重用或者和其他使用OmegaT或其他CAT工具的译员进行交换。沒有改變，自然就夠了，意味著沒有這樣的升級。Version 3.1 added a setting for blocking targets equal to their sources, a common slip, plus a keyboard shortcut for overriding it—numbers, source code in programming manuals, etc.
+
+At any point, the user can create partially translated versions of the source files. Note that OmegaT copies source segments verbatim if they have yet to be translated. Before doing so, however, the user is advised to use the Validate menu command to check for tag and other errors. Version 3.1 added a menu command (and keyboard shortcut) for limiting operation to the current file—for partial delivery or quick update, for example.
+
+## 產品特性
+
+OmegaT shares many features with mainstream CAT tools. These include creating, importing and exporting translation memories, fuzzy matching from translation memories, glossary look-up, and reference and concordance searching.
+
+OmegaT also has additional features that are not always available in other CAT tools. These include:
+
+OmegaT starts by displaying a short tutorial called "Instant Start.".
+OmegaT can translate multiple files in multiple file formats in multiple subfolders simultaneously, and consult multiple translation memories,[6] glossaries and dictionaries (limited only by available computer memory).
+With regard to supported file types, OmegaT allows the user to customise file extensions and file encodings. For a number of document types, the user can choose selectively which elements must be translated (e.g. in OpenOffice.org Writer files, choose whether to include bookmarks; in Microsoft Office 2007/2010 files, choose whether to translate footnotes; or in HTML, choose whether to translate ALT text for images). The user can also choose how non-standard elements in third-party translation memories should be handled.
+OmegaT's segmentation rules are based on regular expressions. Segmentation can be configured based on language or based on file format, and successive segmentation rules inherit values from each other.
+In the edit window, the user can jump directly to the next untranslated segment, or go forward or backwards in history. Users can use undo and redo, copy and paste, and switch between uppercase and lowercase in the same way as one would in an advanced text editor. The user can choose to see the source text of segments that have already been translated. The edit pane also has inline spell-checking using Hunspell dictionaries, and interactive spell-checking is done using the mouse.
+Users can insert fuzzy matches using a keyboard shortcut or using the mouse. OmegaT shows the degree of similarity in fuzzy matches using colours. OmegaT can also display the date, time and the name of the user who translated any given segment. Glossary matches can be inserted using the mouse. The user can choose to have the source text copied into the target text field, or to have the highest fuzzy match automatically inserted.
+In the search window, the user can choose to search the current files' source text, target text, other translation memories, and reference files. Searches can be case sensitive, and regular expressions can also be used. Double-clicking a search result takes the user directly to that segment in the edit window.
+After translation, OmegaT can perform tag validation to ensure that there are no accidental tag errors. OmegaT can calculate statistics for the project files and translation memories before the project starts, or during the translation to show the progress of the translation job.
+OmegaT can get machine translations from Apertium, Belazar and Google Translate, and display it in a separate window.
+The various windows in OmegaT's user interface can be moved around, maximised, tiled, tabbed and minimised.
+Document formats support
+
+Several file types can be translated directly in OmegaT. OmegaT determines the file type by the file extension. The file extension handling and preferred encoding can be customised to override default settings.
+
+OmegaT handles formatted documents by converting formatting to tags, similar to other commercial CAT tools.
+
+## 術語
+
+对于术语库，OmegaT主要使用tab分隔的UTF-8编码且扩展名为.txt的纯文本文件。术语库文件的结构非常简单：首列包含源语言词语，第二列包含对应的目标语言词语，第三列（可省略）与词语相关的上下文注释等。文本编辑器中可以很容易创建这样的术语库。
+
+还支持使用标准CSV格式的类似结构的文件，对于TBX文件同样如此。
+
