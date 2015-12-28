@@ -1,0 +1,28 @@
+---
+layout: article
+title: "Summarizing Data"
+categories: data
+excerpt: "Generally, summarizing data means finding statistical figures such as mean, median, box plot etc."
+image:
+  feature: /freemind/summaries data in R.svg
+  teaser: /teasers/teasers.ice.berg.jpg
+  thumb:
+---
+
+### 參考文獻
+
+- [基於R語言的7種重要數據概括方法](http://www.analyticsvidhya.com/blog/2015/12/7-important-ways-summarise-data/)
+- [用這7個R程序包更快地操作數據](http://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/)
+
+
+## 基於R語言的7種重要數據概括方法
+
+用R語言進行數據快速匯總的時候, 人們總是很困惑. 有太多的選項. 但是,哪一個是最好的呢?我在下文中回答了這個問題. 首先你必須選一個. 並且,成為這個的專家. 那是你應該怎麼進展到下階段.
+
+從SAS或SQL過渡而來的人們習慣於用這些語言來寫簡單查詢來匯總數據集. 對於這樣的受眾, 最大的關心是我們怎麼用R語言來做同樣的事情.
+
+在這篇文章中, 我將涵蓋匯總數據集的最主要的方法. 希望這樣會讓你們的旅程比看起來更簡單.
+
+通常, 匯總數據意味著找到統計學數字例如平均數, 中位數, 和箱形圖等. 如果對散點圖和直方圖理解得很好, 你可以參照該指南[R語言中的數據可視化](http://www.analyticsvidhya.com/blog/2015/07/guide-data-visualization-r/).
+
+## 用這7個R程序包更快地操作數據

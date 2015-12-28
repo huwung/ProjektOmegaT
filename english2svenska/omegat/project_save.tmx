@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
+<<<<<<< HEAD
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r8005" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+=======
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.8" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
@@ -92,6 +97,7 @@
         <seg>smått exotisk</seg>
       </tuv>
     </tu>
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45
 <!-- Alternative translations -->
   </body>
 </tmx>

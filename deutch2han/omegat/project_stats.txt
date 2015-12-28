@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+12/26/15 12:21 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	       0	    0	                          0	                            0	     0	
+Remaining:       	       0	    0	                          0	                            0	     0	
+Unique:          	       0	    0	                          0	                            0	     0	
+Unique Remaining:	       0	    0	                          0	                            0	     0	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+=======
 25.12.15 13:04
 Projektstatistik
 
@@ -11,3 +26,4 @@ Verbleibend einmalig:	       0	     0	                         0	               
 Statistik einzelner Dateien:
 
 Dateiname	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleibende einmalige Segmente	Wörter Gesamt	Verbleibende Wörter:	Einmalige Wörter	Verbleibende einmalige Wörter	Zeichen Gesamt (ohne Leerzeichen)	Verbleibende Zeichen (ohne Leerzeichen)	Einmalige Zeichen (ohne Leerzeichen)	Verbleibende einmalige Zeichen (ohne Leerzeichen)	Zeichen Gesamt (mit Leerzeichen)	Verbleibende Zeichen (mit Leerzeichen)	Einmalige Zeichen (mit Leerzeichen)	Verbleibende einmalige Zeichen (mit Leerzeichen)	
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45

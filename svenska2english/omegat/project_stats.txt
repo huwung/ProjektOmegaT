@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+12/26/15 12:25 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	       0	    0	                          0	                            0	     0	
+Remaining:       	       0	    0	                          0	                            0	     0	
+Unique:          	       0	    0	                          0	                            0	     0	
+Unique Remaining:	       0	    0	                          0	                            0	     0	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+=======
 25.12.15 13:26
 Projektstatistik
 
@@ -14,3 +29,4 @@ Dateiname     	Segmente Gesamt	Verbleibende Segmente	Einmalige Segmente	Verbleib
 sentences.docx	             11	                    0	                11	                              0	           43	                   0	              43	                            0	                              276	                                      0	                                 276	                                                0	                             308	                                     0	                                308	                                               0	
 sentences.txt 	              5	                    1	                 1	                              1	           12	                   2	               2	                            2	                              131	                                     38	                                  38	                                               38	                             138	                                    39	                                 39	                                              39	
 test.docx     	              1	                    1	                 1	                              1	            5	                   5	               5	                            5	                               60	                                     60	                                  60	                                               60	                              64	                                    64	                                 64	                                              64	
+>>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45

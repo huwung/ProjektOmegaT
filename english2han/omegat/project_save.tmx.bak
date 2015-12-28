@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r8005" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>## 7 Important Ways to Summarise Data in R</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T095901Z" creationid="bernstein" creationdate="20151225T095901Z">
+        <seg>## 基於R語言的7種重要數據概括方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>## Do Faster Data Manipulation using These 7 R Packages</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T111200Z" creationid="bernstein" creationdate="20151225T111200Z">
+        <seg>## 用這7個R程序包更快地操作數據</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>### REFERENCES</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T095544Z" creationid="bernstein" creationdate="20151225T095544Z">
+        <seg>### 參考文獻</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>% Additionally, the one-step test will require little technical expertise or resources, should take less than 30 minutes to carry out, and is easily transportable, making it an ideal candidate for field diagnosis in developing countries.</seg>
@@ -102,6 +126,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- [7 Important Ways to Summarise Data in R](http://www.analyticsvidhya.com/blog/2015/12/7-important-ways-summarise-data/)
+- [Do Faster Data Manipulation using These 7 R Packages](http://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/)</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T100019Z" creationid="bernstein" creationdate="20151225T095702Z">
+        <seg>- [基於R語言的7種重要數據概括方法](http://www.analyticsvidhya.com/blog/2015/12/7-important-ways-summarise-data/)
+- [用這7個R程序包更快地操作數據](http://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AIMS: To assess whether the combination of serologically determined Helicobacter pylori infection and atrophic gastritis is available as a biomarker for bone conditions.</seg>
       </tuv>
       <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T190135Z" creationid="hugoHOOVER" creationdate="20150717T190135Z">
@@ -174,6 +208,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>And, become expert at it.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103813Z" creationid="bernstein" creationdate="20151225T103813Z">
+        <seg>並且,成為這個的專家.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>BACKGROUND: There are few reports about the influence of Helicobacter pylori infection and/or atrophic gastritis on bone conditions in Japan.</seg>
       </tuv>
       <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T185939Z" creationid="hugoHOOVER" creationdate="20150717T185621Z">
@@ -186,6 +228,14 @@
       </tuv>
       <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150716T194543Z" creationid="hugoHOOVER" creationdate="20150716T194543Z">
         <seg>背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But, which one is the best ?</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103651Z" creationid="bernstein" creationdate="20151225T103651Z">
+        <seg>但是,哪一個是最好的呢?</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +328,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For such audience, the biggest concern is to how do we do the same thing on R.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105709Z" creationid="bernstein" creationdate="20151225T105709Z">
+        <seg>對於這樣的受眾, 最大的關心是我們怎麼用R語言來做同樣的事情.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generally, summarizing data means finding statistical figures such as mean, median, box plot etc.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T110954Z" creationid="bernstein" creationdate="20151225T110954Z">
+        <seg>通常, 匯總數據意味著找到統計學數字例如平均數, 中位數, 和箱形圖等.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="ZH">
@@ -290,6 +356,14 @@
       </tuv>
       <tuv lang="ZH">
         <seg>HeartSome也很强大，价格也很实在，而且根据我的经验，如果不用 Mac 或者 Windows 系统，或者惯用 Openoff，那么HearSome是最好的商业翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hopefully this will make your journey much easier than it looks like.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105920Z" creationid="bernstein" creationdate="20151225T105920Z">
+        <seg>希望這樣會讓你們的旅程比看起來更簡單.</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +448,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this article I will cover primary ways to summarize data sets.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105840Z" creationid="bernstein" creationdate="20151225T105840Z">
+        <seg>在這篇文章中, 我將涵蓋匯總數據集的最主要的方法.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this demonstration paper, we describe different components of Risk-O-Meter and the intelligent algorithms associated with each of these components to evaluate risk of readmission using incomplete patient data inputs.</seg>
       </tuv>
       <tuv lang="ZH" changeid="hugoHOOVER" changedate="20150717T205758Z" creationid="hugoHOOVER" creationdate="20150717T205758Z">
@@ -434,6 +516,14 @@
       </tuv>
       <tuv lang="ZH" changeid="wanghu" changedate="20150713T205950Z" creationid="wanghu" creationdate="20150713T205950Z">
         <seg>該項目稱為Risk-O-Meter，已經應用於西雅圖地區的一個醫院體系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I’ve answered this question below.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103730Z" creationid="bernstein" creationdate="20151225T103730Z">
+        <seg>我在下文中回答了這個問題.</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +712,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>People remain confused when it comes to summarizing data real quick in R. There are various options.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105216Z" creationid="bernstein" creationdate="20151225T105216Z">
+        <seg>用R語言進行數據快速匯總的時候, 人們總是很困惑. 有太多的選項.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>People who transition from SAS or SQL are used to writing simple queries on these languages to summarize data sets.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T105537Z" creationid="bernstein" creationdate="20151225T105537Z">
+        <seg>從SAS或SQL過渡而來的人們習慣於用這些語言來寫簡單查詢來匯總數據集.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Put simply, the law provides financial incentives for hospitals to improve readmission rates and financial sticks with which to punish hospitals where the problem persists.</seg>
       </tuv>
       <tuv lang="ZH" changeid="wanghu" changedate="20150713T204443Z" creationid="wanghu" creationdate="20150713T204443Z">
@@ -742,10 +848,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That’s how you should move to the next.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T104024Z" creationid="bernstein" creationdate="20151225T104024Z">
+        <seg>那是你應該怎麼進展到下階段.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Editor pane displays the source documents as individual “segments” for translation one segment at a time.</seg>
       </tuv>
       <tuv lang="ZH">
         <seg>OmegaT会在编辑窗格的片段中显示已分段的源文档的可翻译内容供用户翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Editor pane displays the source documents as individual “segments” for translation one segment at at time.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151225T044057Z" creationid="hugoHOOVER" creationdate="20151225T044057Z">
+        <seg>編輯窗口將源文件顯示為獨立的片段以便於一次翻譯一個片段.</seg>
       </tuv>
     </tu>
     <tu>
@@ -914,6 +1036,14 @@
       </tuv>
       <tuv lang="ZH">
         <seg>Wordfast 的开发人 Yves Champollion 是一个非常聪明实干的家伙，他给自己的产品设置了大量不错的支持功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must choose one at first.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="bernstein" changedate="20151225T103750Z" creationid="bernstein" creationdate="20151225T103750Z">
+        <seg>首先你必須選一個.</seg>
       </tuv>
     </tu>
     <tu>
