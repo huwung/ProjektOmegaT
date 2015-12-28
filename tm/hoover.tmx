@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.3_0_r8005" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
-<<<<<<< HEAD
-=======
     <tu>
+      <tuv lang="EN">
+        <seg>This will make sure that you always have enough time to respond to that email in the future.</seg>
+      </tuv>
+      <tuv lang="ZH" changeid="hugoHOOVER" changedate="20151228T062601Z" creationid="hugoHOOVER" creationdate="20151228T062601Z">
+        <seg>這將保證未來你有足夠的時間來回應那類郵件.</seg>
+      </tuv>
+    </tu>
+<tu>
       <tuv lang="EN">
         <seg>## 7 Important Ways to Summarise Data in R</seg>
       </tuv>
@@ -1173,7 +1179,7 @@
         <seg>研究者认为，目前没有任何诊断工具可与这种方法相媲美， 别的技术需要花费几个月的时间才能达到相同的检测灵敏度，同时价格昂贵。 % The latest FDA-approved model cost upwards of $20,000.</seg>
       </tuv>
       <tuv lang="ZH" changeid="wanghu" changedate="20150714T020657Z" creationid="wanghu" creationdate="20150714T020522Z">
-        <seg>研究者认为，目前没有任何诊断工具可与这种方法相媲美， 别的技术需要花费几个月的时间才能达到相同的检测灵敏度，同时价格昂贵。 % 
+        <seg>研究者认为，目前没有任何诊断工具可与这种方法相媲美， 别的技术需要花费几个月的时间才能达到相同的检测灵敏度，同时价格昂贵。 %
 一项由美国食品药品管理局批准的最新模式成本超过了2万美元。</seg>
       </tuv>
     </tu>
@@ -1185,7 +1191,6 @@
         <seg>该测试的靶点为一种由结核分枝杆菌产生的酶(BlaC)。 % 迄今為止，不可能針對特殊酶來診斷結核病。</seg>
       </tuv>
     </tu>
->>>>>>> c10f727cd6f57495de829dac10b4c544ea80ee45
 <!-- Alternative translations -->
   </body>
 </tmx>
